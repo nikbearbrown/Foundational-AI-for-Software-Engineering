@@ -204,10 +204,10 @@ For Emerging Tech:
 - Hugging Face's tools help with model deployment   
 
 Appendices
-A. Tools and Resources
-B. Coding Standards Templates
-C. Checklists and Best Practices Summary
-D. Case Studies
-E. Glossary of Terms
+A. Tools and Resources     
+B. Coding Standards Templates    
+C. Checklists and Best Practices Summary    
+D. Case Studies    
+E. Glossary of Terms    
 
 
