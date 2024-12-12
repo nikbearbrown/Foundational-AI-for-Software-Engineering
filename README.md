@@ -203,7 +203,7 @@ For Emerging Tech:
 - OpenAI's APIs help integrate AI capabilities
 - Hugging Face's tools help with model deployment   
 
-Appendices
+Appendices    
 A. Tools and Resources     
 B. Coding Standards Templates    
 C. Checklists and Best Practices Summary    
